@@ -2,12 +2,61 @@
   "name": "Home",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": []
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/20a45836-af2d-46ab-a5e0-872f9383bce2"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/20a45836-af2d-46ab-a5e0-872f9383bce2"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/20a45836-af2d-46ab-a5e0-872f9383bce2"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/20a45836-af2d-46ab-a5e0-872f9383bce2"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/20a45836-af2d-46ab-a5e0-872f9383bce2"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/7d88dae9-2614-48a0-84d9-3077b37aaaf4",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/7427d428-b820-4696-87cd-adcb924a604d"
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }

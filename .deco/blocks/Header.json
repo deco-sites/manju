@@ -1,5 +1,8 @@
 {
   "__resolveType": "site/sections/Header.tsx",
   "title": "<p>Click here to tweak this text however you want.</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  "description": "<p>This text is entirely editable, tailor it freely.</p>",
+  "logo": {
+    "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11826/83651e3b-edd1-44cb-9fd0-8a05ff9b7ba8"
+  }
 }
